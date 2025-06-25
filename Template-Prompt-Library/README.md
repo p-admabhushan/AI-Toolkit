@@ -1,6 +1,7 @@
 # 📄 Template Prompt Library
 
 This folder contains an Excel-based **Prompt Library Template** designed to help you systematically capture, iterate, and organize effective prompts for generative AI tools like ChatGPT, Gemini, Claude, and others.
+I found it useful for more complex prompts used for coding using Cursor AI etc, where it becomes more complex to manager working prompts and document iterations.
 
 ---
 
